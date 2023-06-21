@@ -1,0 +1,43 @@
+body{
+    font-family: "roboto";
+}
+
+.container{
+    display: flex;
+}
+
+.hero{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+    border: 1px solid black;
+    padding: 50px;
+    background-color: #1f2937;
+    color: white;
+}
+
+.header{
+    display: flex;
+    font-weight: 800px;
+}
+
+.links{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+
+
+.two{
+
+}
+
+.three{
+
+}
+.footer{
+
+}
